@@ -1,15 +1,15 @@
-# Comunidade DS Portfólio
+# Bruno Schirmer DS Portfolio
 
-The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
+The main goal of this data science personal projects portfolio is to show my skills in solving business challenges through my knowledge and tools of Data Science.
 
 <p align='center'>
     <img src='banner.png'<
 </p>
 
-# Meigarom Lopes
+# Bruno Schirmer
 <sub>*Data Scientist*</sub>
 
-I have studied Machine Learning since 2012 and have 4 years of professional experience as a Data Scientist in relevant companies in Brazil such as 99 taxis, Easynvest, AMARO and Loft.
+I studied business admininstration and got my degree from ESPM. After getting my degree, I decided to  study data science, and have been studying it since the beggining of 2021.
 
 I have mastery of all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using Clouds.
 
