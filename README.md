@@ -27,7 +27,7 @@ I studied business admininstration and got my degree from ESPM. After getting my
 **Machine Learning Deployment:**   
 
 **Links:**
-* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/brunoschirmer)
+* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)(www.linkedin.com/in/brunoschirmer)
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.erenoschirmer@gmail.com)](mailto:bruno.erenoschirmer@gmail.com)
 
 
