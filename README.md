@@ -11,54 +11,39 @@ The main goal of this data science personal projects portfolio is to show my ski
 
 I studied business admininstration and got my degree from ESPM. After getting my degree, I decided to  study data science, and have been studying it since the beggining of 2021.
 
-I have mastery of all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using Clouds.
-
-I have already developed solutions for important business problems such as detecting fraud in transactions, classifying diseases early, identifying customers in churn and prioritizing customers for cross-selling.
-
-The details of each solution are described in the projects below.
-
 
 **Analytical Tools:**
 
-**Data Collect and Storage:** SQL, MySQL, Postgres, SQL Server, Redshift, Snowflake, Oracle, Big Query, MongoDB, Cassandra and Hive.
+**Data Collect and Storage:** SQL, MySQL, Postgres, DBeaver.
 
-**Data Processing and Analysis:** R, Python, Spark, Airflow, Databricks, Logstash, Nifi, Dbt and Stitch.
+**Data Processing and Analysis:** Python.
 
-**Development:** Git, Scrum, Lean Analytics, Linux and Docker. 
+**Development:** Git, Scrum. 
 
-**Data Vizualization:** Tableau, Looker, Power BI, QlikView, Metabase and Caravel.
+**Data Vizualization:** 
 
-**Machine Learning Modeling:** Classification, Regression, Clustering, Time Series, Reinforcement Learning, RecSys and NLP. 
+**Machine Learning Modeling:** Classification, Regression, Clustering, Time Series, RecSys. 
 
-**Machine Learning Deployment:** AWS Cloud and Google Cloud Platform ( GCP )  
+**Machine Learning Deployment:**   
 
 **Links:**
-* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/meigarom/)
-* [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meigaromlopes@gmail.com)](mailto:meigaromlopes@gmail.com)
+* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/brunoschirmer)
+* [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.erenoschirmer@gmail.com)](mailto:bruno.erenoschirmer@gmail.com)
 
 
 ## Data Science Projects:
 
-### [Cardiovascular Disease Detection]( https://gitlab.com/datascience-community/pa001_cardio_catch_diseases )
+### [Rossmman Stores Sales]( https://github.com/brunoschirmer/rossman_stores )
 
-Building a Machine Learning Model to detect cardiovascular disease in early stages leverage the diagnostic precision made by health professionals.  
-In this project, I developed a Machine Learning model able to detect disease in early stages with **65% accuracy** over 70k patience.
-The performance of this model would increase **revenue of U$81.2 millions** according to the company's business model described in the problem definition.
+The hypothetical commercial context that guides the project is basically to meet the request made by the CFO to the managers of each store. The request consisted of the revenue forecasts of the stores for the next six weeks because he wanted to reform the stores and wanted based on the amount of sales after six weeks of the store.
 
 
-### [Fraud Detection]( https://gitlab.com/datascience-community/pa002_blocker_fraud_company ) 
+### [Health Insurance Cross-Sell]( https://github.com/brunoschirmer/health_insurance_cross_sell ) 
 
-Machine Learning and taking fraud detection to the next level. Companies are reducing their costs with detecting fraudulent transactions, while companies providing theses types of services are increasing thier income.
-In this project, I built a Machine Learning classifier to label fraudulent transactions with **99.63% of accuracy.**
-The performance of this model would bring **revenue of U$877,5 millions** according to the company's business model described in the problem definition.
+This project aimed to order a potential client list by propensity score, decreasing the cost with calls by reaching to the clients with the highest potential to buy the insurance.
 
-### [Churn Prediciton]( https://gitlab.com/datascience-community/pa003_churn_predict ) 
+### [Insiders]( https://github.com/brunoschirmer/insiders_clustering ) 
 
-In saturated markets, the cost to retain a customer is much less than prospecting for new customers. Machine Learning models are able to predict whether or not the customer will renew their service contract with the company in the next year. This information about the users is very important to optimize efforts in prioritizing customers who should continue with the contract in the company.
-In this context, I developed a Machine Learning algorithm to identify whether or not a customer will stop using the banking service. The performance of the model in identifying the customer who will enter in churn period is **90%**, which represents an additional **U$ 20 million in revenue**, as described in the problem below.
+This project goal is to create a group of clients using clustering models.
 
-### [Health Insurance Cross-Sell]( https://gitlab.com/datascience-community/pa004_health_insurance_cross_sell ) 
-
-## Data Anaysis - Insight Projets
-
-## Data Engineering - ETL Projets
+### [Next Project]( link ) 
